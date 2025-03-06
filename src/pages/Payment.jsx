@@ -8,7 +8,8 @@ const Payment = () => {
     return new Date(randomTime);
   }
 
-  const slotdate = randomDate(new Date(2025, 0, 1), new Date()); 
+  // Set the start date to the current date and the end date to a future date
+  const slotdate = randomDate(new Date(), new Date(2025, 0, 1)); 
   const formattedDate = slotdate.toLocaleDateString('en-US', {
     weekday: 'long',
     year: 'numeric',
@@ -16,15 +17,14 @@ const Payment = () => {
     day: 'numeric',
     hour: '2-digit',
     minute: '2-digit',
-   
   });
 
   console.log(formattedDate);
 
   return (
     <div className="payment">
-      <h2>Your slot has been booked for {formattedDate}. To consult with a doctor, please ensure payment is completed. </h2>
-      <img src={payment} alt="payments" className="payment-img" />
+      <h2>Your slot has been booked for {formattedDate}. To consult with a doctor, please ensure payment is completed.</h2>
+      <img src={payment} alt="Payment methods" className="payment-img" />
     </div>
   );
 };
