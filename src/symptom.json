@@ -1,0 +1,71 @@
+
+[
+    {
+      "symptom": "fever",
+      "conditions": ["Flu", "COVID-19", "Common Cold", "Malaria", "Typhoid"]
+    },
+    {
+      "symptom": "cough",
+      "conditions": ["Flu", "COVID-19", "Bronchitis", "Pneumonia", "Allergies"]
+    },
+    {
+      "symptom": "headache",
+      "conditions": ["Migraine", "Tension Headache", "Sinusitis", "Cluster Headache", "Dehydration"]
+    },
+    {
+      "symptom": "sore throat",
+      "conditions": ["Strep Throat", "Tonsillitis", "Common Cold", "Allergies", "COVID-19"]
+    },
+    {
+      "symptom": "fatigue",
+      "conditions": ["Anemia", "Chronic Fatigue Syndrome", "Hypothyroidism", "Sleep Apnea", "Depression"]
+    },
+    {
+      "symptom": "nausea",
+      "conditions": ["Gastroenteritis", "Food Poisoning", "Pregnancy", "Migraine", "Motion Sickness"]
+    },
+    {
+      "symptom": "chest pain",
+      "conditions": ["Angina", "Heart Attack", "Pneumonia", "Pulmonary Embolism", "Gastroesophageal Reflux Disease (GERD)"]
+    },
+    {
+      "symptom": "shortness of breath",
+      "conditions": ["Asthma", "COPD", "Pneumonia", "Heart Failure", "Anxiety"]
+    },
+    {
+      "symptom": "diarrhea",
+      "conditions": ["Gastroenteritis", "Irritable Bowel Syndrome (IBS)", "Food Intolerance", "Inflammatory Bowel Disease (IBD)", "Celiac Disease"]
+    },
+    {
+      "symptom": "joint pain",
+      "conditions": ["Arthritis", "Gout", "Lupus", "Injury", "Fibromyalgia"]
+    },
+    {
+      "symptom": "skin rash",
+      "conditions": ["Eczema", "Psoriasis", "Allergic Reaction", "Contact Dermatitis", "Infection"]
+    },
+    {
+      "symptom": "dizziness",
+      "conditions": ["Vertigo", "Low Blood Pressure", "Dehydration", "Anemia", "Inner Ear Problems"]
+    },
+    {
+      "symptom": "vomiting",
+      "conditions": ["Gastroenteritis", "Food Poisoning", "Migraine", "Pregnancy", "Appendicitis"]
+    },
+    {
+      "symptom": "back pain",
+      "conditions": ["Muscle Strain", "Herniated Disc", "Sciatica", "Arthritis", "Kidney Stones"]
+    },
+    {
+      "symptom": "runny nose",
+      "conditions": ["Common Cold", "Allergies", "Sinusitis", "Flu", "COVID-19"]
+    },
+    {
+      "symptom": "swollen lymph nodes",
+      "conditions": ["Infection", "Lymphoma", "Mononucleosis", "HIV", "Autoimmune Diseases"]
+    },
+    {
+      "symptom": "insomnia",
+      "conditions": ["Anxiety", "Depression", "Sleep Apnea", "Chronic Pain", "Restless Legs Syndrome"]
+    }
+  ]

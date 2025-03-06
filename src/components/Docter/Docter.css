@@ -1,0 +1,95 @@
+.docter {
+    margin: 3rem auto;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    max-height: 100dvh;
+}
+
+.place-middle {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap:1.5rem; 
+    max-width: 1000px; 
+    width: 90%;
+    margin: 0 auto; 
+
+}
+
+.docter-description {
+    padding-right: 1.5rem;
+}
+
+.docter-description h1 {
+    font-size: 2.6rem;
+    margin-bottom: 0.8rem;
+}
+
+.docter-description p {
+    font-size: 1.2rem;
+    line-height: 1.5;
+}
+
+.images-format {
+    
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, auto);
+    gap: 1rem; 
+    align-items: center;
+    justify-items: center;
+    margin-left: 1rem;
+}
+
+.images-format .home {
+    width: 100%;
+    height: auto;
+   object-fit: cover    ;
+    border-radius: 8px;
+    border: none;
+    background: none;
+}
+
+.images-format .home1 {
+    grid-column: 1 / 2;
+    grid-row: 1 / 3;
+    aspect-ratio: 300/500;
+    
+  
+}
+
+.images-format .home2 {
+    grid-column: 2 / 3;
+    grid-row: 1;
+    aspect-ratio: 250/250;
+   
+}
+
+.images-format .home3 {
+    grid-column: 2 / 3;
+    grid-row: 2;
+    aspect-ratio: 250/250;
+}
+
+.requestbtn{
+    background-color: #007bff;
+    cursor: pointer;
+    text-transform: capitalize;
+    padding: 0.8rem 1.4rem;
+    color: white;
+    border: none;
+    border-radius: 14px;
+    opacity: 1;
+    transition: 0.5s ease all;
+    margin-top: 2rem;
+}
+.requestbtn a{
+    text-decoration: none;
+    color: white;
+}
+.requestbtn:hover{
+    opacity: 0.7;
+    background-color: #0069fd;
+}

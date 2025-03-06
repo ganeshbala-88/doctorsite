@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(45deg, #C5BAFF, #F8E7F6, #E8F9FF, #FBFBFB);
+  background-size: 300% 300%;
+  animation: colors 12s infinite ease-in;
+  min-height: 100dvh;
+}
+
+@keyframes colors {
+  0% {
+      background-position: 0% 50%;
+  }
+  50% {
+      background-position: 100% 50%;
+  }
+  100% {
+      background-position: 0% 50%;
+  }
+}
+
+.container {
+
+  max-width: 100%;
+  width: 100%;
+  min-height: auto;
+ 
+}

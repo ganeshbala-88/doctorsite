@@ -1,0 +1,132 @@
+[
+    {
+        "id":1,
+        "photo":"https://stgaccinwbsdevlrs01.blob.core.windows.net/newcorporatewbsite/doctors/December2024/6uJdRO1RzdGSVrIT87J5.jpg?w=256&q=75",
+        "name":"Dr. Devi Prasad Shetty",
+        "specialization":"cardiology",
+        "location":"chennai"
+
+    },
+    {
+        "id":2,
+        "photo":"https://medotil.com/storage/admin-assets/images/doctors//SEBG5zfW8QQvCK5O2AzlfZX2B1icKyTYs8RsVFfE.jpg",
+        "name":" Dr. Yugal Kishore Mishra",
+        "specialization":"cardiology",
+        "location":"chennai"
+
+    },
+    {
+        "id":3,
+        "photo":"https://karetrip.com/_next/image?url=https%3A%2F%2Fdxfqlcpql5f3t.cloudfront.net%2Fdoctors%2Fdr-rajiv-anand.webp&w=828&q=75",
+        "name":" Dr. Rajiv Anand",
+        "specialization":"nuerology",
+        "location":"Hyderabad"
+
+    },
+    {
+        "id":4,
+        "photo":"https://ghealth121.com/wp-content/uploads/2019/12/Dr.-Sumit-Singh-1.jpg",
+        "name":":  Dr. Sumit Singh",
+        "specialization":"nuerology",
+        "location":"Hyderabad"
+
+    },
+    {
+        "id":5,
+        "photo":"https://ehealth.eletsonline.com/wp-content/uploads/2017/09/Dr-Ashok-Rajgopal.jpg",
+        "name":"Dr. Ashok Rajgopay",
+        "specialization":"orthopedics ",
+        "location":"Banglore"
+
+    },
+    {
+        "id":6,
+        "photo":"https://www.bhatiahospital.org/storage/app/public/doctors/90/image/1502968537Dr.%20Sanjay%20Desai.jpg",
+        "name":" Dr. Sanjay Desai",
+        "specialization":"orthopedics ",
+        "location":"Banglore"
+
+    },
+    {
+        "id":7,
+        "photo":"https://cdn.askapollo.com/live/images/doctors/dental/dr-neeraj-verma-dental-in-delhi.png",
+        "name":"Dr. Ritika Malhotra ",
+        "specialization":"dentistry ",
+        "location":"Noida"
+
+    },
+    {
+        "id":8,
+        "photo":"https://hbgmedicalassistance.com/wp-content/uploads/2023/07/Dr.-Ritika-Malhotra.webp",
+        "name":"Dr. Neeraj Verma",
+        "specialization":"dentistry ",
+           "location":"Banglore"
+
+    },
+    {
+        "id":9,
+        "photo":"https://ghealth121.com/wp-content/uploads/2021/02/Dr.-Anita-Sethi.jpg",
+        "name":"Dr. Anita Sethi",
+        "specialization":"ophthalmology ",
+        "location":"chennai"
+
+    },
+    {
+        "id":10,
+        "photo":"https://drdigvijaysingh.com/wp-content/uploads/2016/12/DigvijayProfile.jpg",
+        "name":" Dr. Digvijay Singh",
+        "specialization":"ophthalmology ",
+        "location":"Banglore"
+
+    },
+    {
+        "id":11,
+        "photo":"https://cdn.askapollo.com/live/images/doctors/pediatrics/dr-munamala-rajasekhar-reddy-pediatrics-in-nellore..jpg",
+        "name":"Dr. Munamala",
+        "specialization":"pediatrics ",
+        "location":"chennai"
+
+    },
+    {
+        "id":12,
+        "photo":"https://cdn.askapollo.com/live/images/doctors/pediatrics/dr-leena-priyambada-pediatrics-in-hyderabad..jpg",
+        "name":"Dr. Leena Priyambada",
+        "specialization":"pediatrics ",
+        "location":"chennai"
+
+    },
+    {
+        "id":13,
+        "photo":"https://www.indialaparoscopysurgerysite.com/dr-anjila-aneja/images/dr-anjila-aneja-best-Obstetrics-gynaecolgy-fortis-hospital-delhi.jpg",
+        "name":"Dr. Anjila Aneja",
+        "specialization":"gynecology ",
+        "location":"Hyderabad"
+
+    },
+
+    {
+        "id":14,
+        "photo":"https://dxfqlcpql5f3t.cloudfront.net/doctors/dr-anuradha-panda.webp",
+        "name":"Dr. Anuradha Panda",
+        "specialization":"gynecology ",
+         "location":"Hyderabad"
+
+    },
+    {
+        "id":15,
+        "photo":"https://imagesx.practo.com/providers/dr-narasimhan-r-pulmonologist-chennai-b9b0b338-7cbd-44eb-9320-4d33117f2d04.jpg?i_type=t_100x100-4x",
+        "name":"Dr. Narasimhan ",
+        "specialization":"pulmonology ",
+         "location":"Banglore"
+
+    },
+    {
+        "id":16,
+        "photo":"https://imagesx.practo.com/providers/dr-sharad-joshi-pulmonologist-delhi-2cac9876-92cf-419c-ad11-9eb4bb788d75.jpg?i_type=t_100x100-4x",
+        "name":"Dr. Sharad Joshi",
+        "specialization":"pulmonology",
+         "location":"Hyderabad"
+
+    }
+]
+
