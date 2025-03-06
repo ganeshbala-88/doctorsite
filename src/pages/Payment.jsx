@@ -9,7 +9,7 @@ const Payment = () => {
   }
 
   // Set the start date to the current date and the end date to a future date
-  const slotdate = randomDate(new Date(), new Date(2025, 0, 1)); 
+  const slotdate = randomDate(new Date(), new Date(2025, 4, 4)); 
   const formattedDate = slotdate.toLocaleDateString('en-US', {
     weekday: 'long',
     year: 'numeric',
